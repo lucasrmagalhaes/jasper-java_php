@@ -2,7 +2,21 @@
 
 ![Jasper Reports](https://github.com/lucasrmagalhaes/jasper-java_php/blob/main/assets/img/jasper-reports.png)
 
+---
+
 [Jaspersoft® Studio](https://community.jaspersoft.com/project/jaspersoft-studio/releases)
+
+*Instalação no Windows: Baixar o .exe e executar.*
+
+*Instalação do pacote*
+```
+sudo dpkg i nome-pacote.deb
+```
+
+*Desinstalar o pacote*
+```
+sudo dpkg -r jaspersoftstudio
+```
 
 ---
 
