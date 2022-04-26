@@ -1,6 +1,8 @@
 <h3 align="center">Jasper</h3>
 
-![Jasper Reports]()
+![Jasper Reports](https://github.com/lucasrmagalhaes/jasper-java_php/blob/main/assets/img/jasper-reports.png)
+
+[Jaspersoft® Studio](https://community.jaspersoft.com/project/jaspersoft-studio/releases)
 
 ---
 
